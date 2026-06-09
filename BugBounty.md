@@ -1,6 +1,18 @@
 # Bug Bounty & Responsible Disclosure
 
-Alephium places utmost importance on the security of its network and infrastructure. Thus, we present to you the formal Alephium Bug Bounty Reward Program designed to encourage responsible bug exposure. Rewards will be distributed considering the bug's gravity that has been reported.
+## Update on the Alephium Bug Bounty Program
+
+As AI-assisted security research becomes increasingly widespread, the volume and nature of bug reports across the software industry are changing rapidly. High-quality vulnerability discovery is becoming more accessible, and this creates both opportunities and new operational challenges for open-source projects like Alephium.
+
+The Alephium core team is currently conducting an internal AI-assisted security review of the codebase and infrastructure. This process includes auditing, triaging, and patching potential issues identified through internal tooling and analysis. During this phase, external bug reports may take longer than usual to review.
+
+We remain committed to responsible disclosure and to working constructively with security researchers. However, reports will be evaluated in the context of the ongoing internal review, including whether the issue was already known, under investigation, or identified by our own auditing process.
+
+Bug bounty rewards will continue to be assessed based on severity, impact, quality of the report, reproducibility, and the value added by the researcher. Given the growing role of AI-assisted discovery, we may also take into account the effort, originality, and cost involved in producing the report.
+
+Alephium is an independent Layer 1 project with more limited resources than many larger ecosystems. While we deeply appreciate meaningful contributions to the security of the protocol, bounty expectations should remain realistic and aligned with the project’s available resources.
+
+We thank the security community for helping keep Alephium safe and resilient.
 
 ## Coverage
 
