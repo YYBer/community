@@ -38,15 +38,15 @@ Exclusions from the Program's coverage include:
 
 ## Rewards
 
-Rewards will be offered based on the risk level and the probability of the bug being activated or exploited, as determined solely by Alephium.
+Bug bounty rewards will continue to be assessed based on severity, impact, quality of the report, reproducibility, and the value added by the researcher. Given the growing role of AI-assisted discovery, we may also take into account the effort, originality, and cost involved in producing the report, as determined solely by Alephium. Rewards are ultimately determined within the means and resources available to the project at the time, alongside all other relevant factors.
 
 ## Disclosure
 
-All found vulnerabilities or bugs must be exclusively reported to this email: **bugbounty@alephium.org**.  An acknowledgment of the report will be issued within 2 business days by Alephium.
+All found vulnerabilities or bugs must be exclusively reported to this email: **bugbounty@alephium.org**. 
 
 Public disclosure of the vulnerability, or disclosure to any other individual, entity, or email address is prohibited before Alephium has been alerted, resolved the issue, and authorized public disclosure. Additionally, the vulnerability must be reported within 24 hours of its discovery.
 
-A comprehensive report on a vulnerability increases the chances of a reward and may boost the reward sum. Please supply as much information as possible about the vulnerability, including:
+A comprehensive report on a vulnerability increases the chances of a reward. Please supply as much information as possible about the vulnerability, including:
 
 - The conditions that the bug reproduction depends on.
 - Steps required to reproduce the bug or, ideally, a proof of concept.
