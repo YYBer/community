@@ -21,13 +21,11 @@ This Program encompasses bugs and vulnerabilities across the entire operational 
 - [Alephium](https://github.com/alephium/alephium)
 - [Frontend](https://github.com/alephium/alephium-frontend)
 - [Extension Wallet](https://github.com/alephium/extension-wallet)
-- [Bridge](https://github.com/alephium/wormhole-fork)
 - [Ledger Integration](https://github.com/alephium/ledger-alephium)
-- [DEX Proof of Concept](https://github.com/alephium/alephium-dex)
-- [NFT Marketplace Proof of Concept](https://github.com/alephium/alephium-nft)
 - [Web3 SDK](https://github.com/alephium/alephium-web3)
 - [Explorer Backend](https://github.com/alephium/explorer-backend)
 - [Website](https://github.com/alephium/www)
+- [Website Bridge](https://bridge.alephium.org/)
 
 *Nonetheless, if a bug in any Alephium-related repository is discovered, even if it doesn't fall within the ones listed, that puts users’ funds at risk, the team will contemplate the issue as part of the bounty's scope.*
 
